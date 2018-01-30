@@ -3,7 +3,31 @@ Problems and Solutions to the **4th Annual** ASU Cyber Challenge Provided by <a 
 
 *This is understandably lacking in as much content as the 2018 challenge repo as it was made after the fact, but here is a baseline of the challenges we used for the 2017 ASU Cyber Challenge.*
 
-(Participating Teams coming soon...)
+## Participating Teams (No Particular Order)
+- Terminal Velocity
+- CCDC-B
+- AZCWR
+- CCDC-A
+- Mr. Robot
+- Door Handlers
+- 5th Place
+- **ROPChain** - 3rd Place
+- Hack-a-Lopes
+- The Ethics Committee
+- Pizza
+- TOOR
+- **pwndevils** - 2nd Place
+- Net Ninjas
+- **Syntax Error** - 4th Place
+- **Putin on the Ritz** - 1st Place
+- Putin's Daddies 
+- AMD
+- Unknown
+- Dutch Bros
+- Trojans 
+- TeamABL
+- Stack Smashers 
+- Stack Overflow 
 
 ## Cyber Challenge Team
 - **Joshua Harp** - Lead / Insane Challenge
