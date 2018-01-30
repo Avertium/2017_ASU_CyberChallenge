@@ -1,7 +1,9 @@
 # 2017 ASU CyberChallenge
-Problems and Solutions to the **4th Annual** ASU Cyber Challenge Provided by <a href='https://www.tvrms.com'>Terra Verde</a>
+Problems and Solutions to the **4th Annual** ASU Cyber Challenge Provided by <a href='https://www.tvrms.com'>Terra Verde</a> held Feb 25, 2017 at ASU West Campus.
 
-This is understandably lacking in as much content as the 2018 challenge repo as it was made after the fact, but here is a baseline of the challenges we used for the 2017 ASU Cyber Challenge.
+*This is understandably lacking in as much content as the 2018 challenge repo as it was made after the fact, but here is a baseline of the challenges we used for the 2017 ASU Cyber Challenge.*
+
+(Participating Teams coming soon...)
 
 ## Cyber Challenge Team
 - **Joshua Harp** - Lead / Insane Challenge
@@ -10,6 +12,7 @@ This is understandably lacking in as much content as the 2018 challenge repo as 
 - **<a href='https://github.com/hatbeardme'>Rick Egli</a>** - Testing
 - **Brian Saenz** - Easy Challenges / Scoreboard
 - **<a href='https://github.com/SmugZombie'>Ron Egli</a>** - Setup Scripting / WackoPicko Rebrand / GitHub
+- **Zeke P, Austin Z, Stephen H, Stephen W, Sean R, Carlos V** - Challenge Helpers
 
 
 ## Technologies Used  
