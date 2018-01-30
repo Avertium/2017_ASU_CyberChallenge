@@ -6,7 +6,8 @@ This is understandably lacking in as much content as the 2018 challenge repo as 
 ## Cyber Challenge Team
 - **Joshua Harp** - Lead / Insane Challenge
 - **<a href='https://github.com/holdenkilbride'>Holden Kilbride</a>** - Network / Infrastructure
-- **<a href='https://github.com/dgeebs'>Daniel Giebink</a>** - Setup Scripting / Hard Challenges
+- **<a href='https://github.com/dgeebs'>Daniel Giebink</a>** - Testing
+- **<a href='https://github.com/hatbeardme'>Rick Egli</a>** - Testing
 - **Brian Saenz** - Easy Challenges / Scoreboard
 - **<a href='https://github.com/SmugZombie'>Ron Egli</a>** - Setup Scripting / WackoPicko Rebrand / GitHub
 
